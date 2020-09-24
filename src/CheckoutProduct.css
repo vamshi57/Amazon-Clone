@@ -1,0 +1,30 @@
+
+.checkoutProduct__rating__star{
+    color: gold;
+
+}
+.checkoutProduct{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+}
+.checkoutProduct__image{
+    padding: 10px;
+    padding-right: 20px;
+}
+
+.checkoutProduct__info{
+    
+    padding-bottom: 10px;
+    padding-left: 30px;
+}
+
+.checkoutProduct__title{
+    padding: 10px;
+}
+.checkoutProduct__rating{
+    padding: 10px;
+}
+.checkoutProduct__button{
+    background-color: rgb(245, 227, 62);
+}
